@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Seeeduino XIAO KICAD")(type "KiCad")(uri "${KIPRJMOD}/Seeeduino-XIAO-KICAD/Seeeduino XIAO KICAD")(options "")(descr ""))
+  (lib (name "DPS310")(type "KiCad")(uri "${KIPRJMOD}/DPS310")(options "")(descr ""))
+  (lib (name "microSD")(type "KiCad")(uri "${KIPRJMOD}/microSD")(options "")(descr ""))
+  (lib (name "URM37")(type "KiCad")(uri "${KIPRJMOD}/URM37")(options "")(descr ""))
+  (lib (name "LOGO")(type "KiCad")(uri "${KIPRJMOD}/LOGO")(options "")(descr ""))
+)
